@@ -22,7 +22,7 @@ This is my personal portfolio website built using **HTML + CSS**. It showcases m
 
 - 💻 [GitHub](https://github.com/vivekrana-dev)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mrvivaanrana76/)
-- ✉️ vivekrana.web@gmail.com
+- ✉️ vivekranaworks@gmail.com
 
 ---
 
